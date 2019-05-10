@@ -63,7 +63,7 @@ The cloud infrastructure has been setup in a restrictive manner. AWS Core IoT ha
 
 ## Server Code
 
-You can view the server code on Glitch https://glitch.com/edit/#!/itp-arduino-workshop
+You can view the server code on Glitch https://glitch.com/edit/#!/iot
 
 ## Bonus
 
