@@ -1,4 +1,4 @@
-# Chariot Day IoT Workshop
+# Chariot Solutions IoT Workshop - Philly Tech Week 2019
 
 Build your own IoT Device. You'll learn how to wire hardware and write firmware for the Arduino MKR WiFi 1010. We'll use MQTT to transfer data between your device and *the cloud*. You'll also learn how to use certificates and the crypto chip on your device to securely communicate with AWS IoT.
 
