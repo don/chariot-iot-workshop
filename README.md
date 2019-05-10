@@ -6,7 +6,6 @@ Presented by Don Coleman
 
 ## Exercises
 
-* [Intro](exercises/intro.md)
 * [Exercise 1: Development Environment](exercises/exercise1.md)
 * [Exercise 2: Assemble the Hardware](exercises/exercise2.md)
 * [Exercise 3: Sending data using MQTT](exercises/exercise3.md)
