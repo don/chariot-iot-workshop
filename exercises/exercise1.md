@@ -51,4 +51,14 @@ Search for "adafruit abstraction" and install the Adafruit Unified Sensor librar
 
 ![Arduino Library Manager Adafruit Unified Sensor](images/library-AdafruitUnifiedSensor.png)
 
+### Linux
+
+Linux users probably need to add their user to the dialout group in order to access the serial port.
+
+    sudo usermod -a -G dialout <username>
+    
+See the [Linux Installation Guide](https://www.arduino.cc/en/guide/linux) for more details.
+<br/>
+<br/>
+
 Next [Exercise 2: Assemble the Hardware](exercise2.md)
